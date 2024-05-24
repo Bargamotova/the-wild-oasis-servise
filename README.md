@@ -1,7 +1,6 @@
 # The Wild Oasis
 
 The project in Jonas Schmedtmann's Ultimate React Course.
-![Markdown Logo]("logo-light.png)
 
 ##
 
